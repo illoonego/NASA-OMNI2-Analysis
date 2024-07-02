@@ -1,6 +1,6 @@
 # NASA OMNI2 Dataset Analysis
 
-This project aims to find the correlations between solar wind parameters and geomagnetic activity on the Earth using statistical analysis and ML techniques, including Linear Regression and Classification (Naive Bayes, LDA and Logistic Regression). The analysis and modeling are documented in a single Jupyter notebook. 
+This project aims to find the correlations between solar wind parameters and geomagnetic activity on the Earth using statistical analysis and ML techniques, including Linear Regression and Classification (Naive Bayes, LDA and Logistic Regression) with Python. The analysis and modeling are documented in a single Jupyter notebook. 
 
 ## Project Structure
 

@@ -18,7 +18,7 @@ NASA-OMNI2-Analysis/
 ├── reports/
 │ ├── figures/
 │ └── analysis-report.pdf
-│
+└── LICENSE
 ```
 
 ## Notebook Overview
